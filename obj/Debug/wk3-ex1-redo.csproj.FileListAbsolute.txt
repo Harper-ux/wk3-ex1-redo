@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\bin\Debug\wk3-ex1-redo.exe.config
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\bin\Debug\wk3-ex1-redo.exe
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\bin\Debug\wk3-ex1-redo.pdb
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\obj\Debug\wk3-ex1-redo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\obj\Debug\wk3-ex1-redo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\obj\Debug\wk3-ex1-redo.exe
+C:\Users\User\source\repos\wk3-ex1-redo\wk3-ex1-redo\obj\Debug\wk3-ex1-redo.pdb
